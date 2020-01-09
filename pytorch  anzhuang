@@ -1,0 +1,21 @@
+   48  python
+   49  python3
+   50  pip3 install numpy
+   51  env
+   52  version
+   53  ver
+   54  sudo apt install liblapacke-dev checkinstall
+   55  sudo apt-get install python3-pip
+   56  sudo apt-get install python3-dev
+   57  sudo apt autoremove
+   58  sudo apt-get install python3-dev python3-pip libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev
+   59  gedit
+   60  sudo apt-get install python3-dev python3-pip libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev
+   61  sudo apt-get install gfortran  
+   62  sudo pip3 install pyyaml
+   63  pyyaml
+   64  sudo pip3 install scikit-build
+   65  sudo apt-get -y install cmake
+   66  sudo pip3 install cffi
+   67  python3
+   68  sudo pip3 install numpy scipy
