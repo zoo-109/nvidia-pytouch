@@ -21,3 +21,13 @@ https://blog.csdn.net/donkey_1993/article/details/102544868
    67  python3
    68  sudo pip3 install numpy scipy
 https://nvidia.app.box.com/public/static/6t52xry4x2i634h1cfqvc9oaoqfzrcnq.whl
+  106  sudo apt-get remove python-pip
+  107  sudo apt-get remove python3-pip
+  108  sudo python3 -m pip install --upgrade --force-reinstall pip
+  109  sudo python -m pip install --upgrade --force-reinstall pip
+  110  sudo apt-get install python-pip
+  111  sudo python3 -m pip install --upgrade --force-reinstall pip
+  112  sudo python2 -m pip install --upgrade --force-reinstall pip
+  113  sudo apt-get install python3-pip
+  114  sudo python3 -m pip install --upgrade --force-reinstall pip
+  115  sudo pip install numpy
