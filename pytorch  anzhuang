@@ -31,3 +31,92 @@ https://nvidia.app.box.com/public/static/6t52xry4x2i634h1cfqvc9oaoqfzrcnq.whl
   113  sudo apt-get install python3-pip
   114  sudo python3 -m pip install --upgrade --force-reinstall pip
   115  sudo pip install numpy
+176  sudo apt-get remove python3-pip
+  177  sudo python3 setup.py install
+  178  pip3 install numpy
+  179  sudo apt-get install python3-pip
+  180  sudo pip3 install --upgrade pip
+  181  pip3 install numpy
+  182  pip install numpy
+  183  sudo apt-get remove python-pip
+  184  sudo apt-get remove python3-pip
+  185  sudo apt-get purge
+  186  sudo apt-get update
+  187  sudo apt-get upgrade
+  188  cd ..
+  189  cd setuptools-44.0.0/
+  190  sudo python3 setup.py install
+  191  cd ..
+  192  cd pip-19.3.1/
+  193  sudo python3 setup.py install
+  194  pip
+  195  pip3
+  196  pip install numpy
+  197  sudo python3 setup.py uninstall
+  198  sudo apt-get remove python3-pip
+  199  sudo apt-get purge
+  200  cd
+  201  python
+  202  python3
+  203  cd /media/
+  204  cd nvidia/
+  205  cd expand/
+  206  cd setuptools-44.0.0/
+  207  sudo python3 setup.py install
+  208  cd ..
+  209  cd pip-19.3.1/
+  210  sudo python3 setup.py install
+  211  pip
+  212  sudo python3 -m pip install --upgrade --force-reinstall pip
+  213  sudo python -m pip install --upgrade --force-reinstall pip
+  214  pip install numpy
+  215  pip3 install numpy
+  216  sudo pip3 install numpy
+  217  python3
+  218  sudo pip3 install '/media/nvidia/expand/torch-1.3.0-cp36-cp36m-linux_aarch64.whl' 
+  219  python3
+  220  python
+  221  cd
+  222  python
+  223  python3
+  224  sudo pip3 install pillow
+  225  sudo pip3 install 'pillow<7.0.0'
+  226  sudo -H pip3 install 'pillow<7.0.0'
+  227  python
+  228  python3
+  229  sudo apt-get install libusb-1.0-0-dev
+  230  sudo apt-get install libusb-1.0-0-dev libusb-dev libudev-dev
+  231  cd libfreenect2
+  232  mkdir build
+  233  cd build
+  234  cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
+  235  sudo cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
+  236  sudo apt-get install libva libva-drm
+  237  cd
+  238  sudo apt-get install libva libva-drm
+  239  sudo apt-get install libva-dev  libva-drm
+  240  sudo apt-get install libva-dev
+  241  sudo apt-get install libva-drm2
+  242  cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
+  243  cd libfreenect2/build/
+  244  cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
+  245  sudo apt-get install libturbojpeg0-dev
+  246  cd
+  247  cd libfreenect2/
+  248  mkdir build
+  249  cd build/
+  250  ls
+  251  cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
+  252  make
+  253  make install
+  254  sudo cp libfreenect2/platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
+  255  ./bin/Protonect
+  256  cd
+  257  sudo cp libfreenect2/platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
+  258  ./bin/Protonect
+  259  cd libfreenect2/build/
+  260  sudo cp libfreenect2/platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
+  261  cd ./bin/Protonect
+  262  ./bin/Protonect
+  263  sudo ./bin/Protonect
+  264  ./bin/Protonect
