@@ -34,3 +34,4 @@ https://nvidia.app.box.com/public/static/6t52xry4x2i634h1cfqvc9oaoqfzrcnq.whl
 173  sudo apt-get install libjpeg-dev zlib1g-dev
   174  git clone --branch torchvision v0.4.2 https://github.com/pytorch/vision torchvision
 180  sudo pip3 install numpy torch-1.3.0-cp36-cp36m-linux_aarch64.whl
+https://devtalk.nvidia.com/default/topic/1049071/jetson-nano/pytorch-for-jetson-nano/
